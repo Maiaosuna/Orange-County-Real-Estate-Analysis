@@ -58,7 +58,7 @@ A multiple regresion analysis was performed to quantify the specific financial i
 2. Every additional square foot adds approx. $124 to the final sale price.
 
 
-Business Application
+Business Application:
 The findings from this analysis provide a framework for real estate investors to make more strategic decisions. This valuation model can be used to:
 1. Identify Undervalued Assets
 2. Calcualte Renovation ROI
