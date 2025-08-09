@@ -46,12 +46,23 @@ Steps to re-run the project and generate the final dataset:
 
 The statistical analysis revealed a hierarchy of what drives property value in this market. All of which were found to be statistically significant (P-value \< 0.05).
 
-The variables are as follows (descending) with their respective R-squared values:
-
+The statistical analysis revealed what drives property value this market. The primary variables are as follows (descending) with their respective R-squared values:
 1. Total Square Footage (strongest): 51.56%  
 2. Number of Bathrooms: 45.02%  
 3. Location (Zip Code): 30.87%  
 4. Number of Bedrooms (Moderate): 20.25%
+
+
+A multiple regresion analysis was performed to quantify the specific financial impact of the top features:
+1. Every additional bathroom adds approx. $34,500 to the final sale price.
+2. Every additional square foot adds approx. $124 to the final sale price.
+
+
+Business Application
+The findings from this analysis provide a framework for real estate investors to make more strategic decisions. This valuation model can be used to:
+1. Identify Undervalued Assets
+2. Calcualte Renovation ROI
+3. Inform Offering Strategy
 
 Conclusion: The analysis concludes that a property’s physical characteristics, specifically its total square footage and number of bathrooms, are the most significant predictors of its final sale price.
 
